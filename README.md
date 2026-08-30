@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20there,%20I'm%20Pavan%20K%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Full%20Stack%20Developer%20|%20Backend%20&%20REST%20APIs%20|%20DSA&descAlignY=52&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Hi%20there,%20I'm%20Pavan%20K%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=CSE%20Student%20|%20Full%20Stack%20Developer%20|%20DSA&descAlignY=52&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Development;Backend+%26+REST+APIs;DSA+%26+Problem+Solving;Exploring+AI%2FML;Cybersecurity+Applications)](https://git.io/typing-svg)
 
@@ -104,8 +104,10 @@ status:        Open to Collaborations & Internships 🚀
 | **[IPL Analytics using Supabase](https://github.com/Pavan-2005-K/ipl-analytics-supabase)** | Data analytics project built on IPL match data using Supabase as the database backend. | Supabase, PostgreSQL, JavaScript |
 | **[Mini WhatsApp API](https://github.com/Pavan-2005-K/day5/tree/main/Mini-WhatsApp-Api)** | REST API simulating core WhatsApp messaging features. | Node.js, Express.js, REST API |
 | **[Instagram Clone](https://github.com/Pavan-2005-K/day4)** | Frontend clone of the Instagram UI. | HTML, CSS, JavaScript |
-
-> More projects — QR Attendance System, Movie Booking System, Email Threat Platform, Student Management API — are in progress. Repo links will be added as they're pushed public.
+| **[Email Threat Platform](https://github.com/Pavan-2005-K/Email)** | Platform for managing and analyzing email-based security threats. | Full-Stack |
+| **[QR Attendance System](https://github.com/Pavan-2005-K/QRAttendence)** | QR code-based attendance tracking system. | Full-Stack |
+| **[Movie Booking System](https://github.com/Pavan-2005-K/Movie-Booking)** | Online movie ticket booking application. | Full-Stack |
+| **[Student Management API](https://github.com/Pavan-2005-K/student-management-api)** | REST API for managing student records. | Node.js, Express.js, REST API |
 
 ---
 
@@ -114,8 +116,6 @@ status:        Open to Collaborations & Internships 🚀
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Pavan-2005-K&theme=tokyonight&hide_border=true)
-
-<img src="https://leetcode-stats-card.vercel.app/?username=PavanK_2005&theme=dark" alt="LeetCode Stats" />
 
 <p>
   <img src="https://img.shields.io/github/followers/Pavan-2005-K?style=for-the-badge&color=58A6FF&labelColor=161B22" />
