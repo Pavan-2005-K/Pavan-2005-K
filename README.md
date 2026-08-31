@@ -123,9 +123,6 @@ status:        Open to Collaborations & Internships 🚀
 </p>
 
 </div>
-
-> ℹ️ Detailed Stats / Top Languages / Activity Graph cards are temporarily removed — the free shared services that generate them are frequently rate-limited by GitHub. These will be added back once self-hosted for reliability.
-
 ---
 
 ## 🎯 Featured / Current Focus
