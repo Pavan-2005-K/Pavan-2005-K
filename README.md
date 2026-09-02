@@ -27,7 +27,7 @@ passions:
   - Cybersecurity Applications
 current_focus: Full-Stack Development, DSA, AI/ML, Real-World Projects
 location:      India 🇮🇳
-status:        Open to Collaborations & Internships 🚀
+status:        Open to Collaborations & Internships 
 ```
 
 - 🔭 **Currently Building:** Full-stack applications, backend APIs, and practical web projects using React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Supabase
