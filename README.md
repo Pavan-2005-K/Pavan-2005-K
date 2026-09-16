@@ -114,7 +114,11 @@ status:        Open to Collaborations & Internships
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pavan-2005-K&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Pavan-2005-K&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-2005-K&layout=compact&theme=tokyonight&hide_border=true" />
 
 <p>
   <img src="https://img.shields.io/github/followers/Pavan-2005-K?style=for-the-badge&color=58A6FF&labelColor=161B22" />
